@@ -1,0 +1,49 @@
+header {
+  width:100%;
+  height:80px;
+  background:#393939;
+}
+
+#login {
+  float:right;
+  height:100%;
+  padding:20px 10px;
+}
+
+.signupholder {
+  width:600px;
+  height:500px;
+}
+.signupform {
+
+  border:1px solid rgba(0,0,0,.2);
+  margin-top:50px;
+  padding:30px;
+}
+
+#username {
+  color:white;
+  display:inline-block;
+}
+
+#signoutBtn {
+  display:none;
+}
+
+#addroom-holder {
+  width:200px;
+  height:150px;
+  margin:20px;
+  padding:15px;
+}
+
+#rooms-holder {
+  padding:20px;
+  margin-top:60px;
+}
+
+.room {
+  border:1px solid rgba(0,0,0,0.2);
+  padding:10px;
+  box-sizing: border-box;
+}
